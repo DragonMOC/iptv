@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+ HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="CCTV-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1 group-title="LocalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1 group-title="LocalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",卡酷少儿
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",湖南金鹰纪实
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+#EXTINF:-1 group-title="LocalTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+#EXTINF:-1 group-title="LocalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",福建东南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="LocalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="localTVHD",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="localTVHD",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="localTVHD",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="CCTV",中央新影发现之旅
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+#EXTINF:-1 group-title="CCTV",中央新影老故事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV女性时尚
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
